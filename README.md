@@ -1,9 +1,15 @@
 # Original idea by:
+
 <https://steamcommunity.com/id/bbkr>
+
 <https://steamcommunity.com/id/Ethorbit>
+
 on this threed:
+
 <https://steamcommunity.com/app/1675200/discussions/0/3319736698849624249/?utm_source=chatgpt.com>
+
 Ethorbit version can be found here:
+
 <https://gist.github.com/Ethorbit/725e878a04f632b7476399c5151c96e8>
 
 # SteamOS Desktop User Switcher — Setup and Usage Guide
