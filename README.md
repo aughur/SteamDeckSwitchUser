@@ -4,7 +4,7 @@
 
 <https://steamcommunity.com/id/Ethorbit>
 
-on this threed:
+threed:
 
 <https://steamcommunity.com/app/1675200/discussions/0/3319736698849624249/?utm_source=chatgpt.com>
 
